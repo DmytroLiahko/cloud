@@ -1,0 +1,37 @@
+ls - to view the contents of current dir
+pwd - show current working dir
+clear - erase terminal text
+cd - change your working dir (e.g  cd /Desktop/cloudTech)
+pushd,  popd  - The pushd command saves the current working directory in memory so it can be returned to at any time, pushd moves to the parent directory.
+                The popd command returns to the path at the top of the directory stack.
+                This directory stack is accessed by the command dirs in Unix or Get-Location -stack in Windows PowerShell.
+file - is used to determine the type of a file
+touch - create file
+mkdir - create directory
+cp - copy content FROM TO (e.g cp FROM TO)
+find -  The find command is used to search and locate the list of files and directories based on conditions you specify for files that match the arguments.
+which - The Linux which command is used to locate the executable files or location of a program from the file system. 
+whatis - is used to get a one-line manual page descriptions
+apropos -  command helps the user when they don't remember the exact command but knows a few keywords related to the command that define its uses or functionality.
+man - is used to display the user manual of any command that we can run on the terminal.
+mv -  moves files and directories from one directory to another, or renames a file or directory.
+more -  is used to view the text files in the command prompt, displaying one screen at a time in case the file is large 
+less - The less command is a Linux terminal pager that shows a file's contents one screen at a time. 
+nano - text file modification in shell
+vim - nano for boomers
+echo - print something in terminal
+whoami - current user
+su - login as root !DO NOT USE
+id - is used to find out user and group names and numeric ID's (UID or group ID) of the current user or any other user in the server.
+watch - The watch command is a built-in Linux utility used for running user-defined commands at regular intervals
+free - Free command in Linux operating system allows users to get a complete picture of total Ram, how much it is used, and free space. 
+killall - kill the process and subprocesses basesd on name
+exit - close terminal
+ps aux - tasks are running 
+top - table of processes
+grep - line searching
+kill - kill the process
+wc - is a command line utility for printing newline, word and byte counts for files
+sort - is used in Linux to print the output of a file in given order.
+diff -  utility that allows you to compare two files line by line.
+uniq - The uniq command finds the unique lines in a given input ( stdin or a filename command line argument) and either reports or removes the duplicated lines.
