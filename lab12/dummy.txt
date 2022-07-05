@@ -1,0 +1,6 @@
+1) use early installed jenkins running on local machine
+2) set 2 docker containers with prometheus and grafana
+3) install jenkins plugin for prometheus support
+4) customize prometheus config and add new datasourse to crawl (jenkins)
+5) link grafana and prometheus+jenkins
+6) add metrics and customize dashboard
