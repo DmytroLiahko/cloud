@@ -1,0 +1,5 @@
+1) setup ubuntu virtual machine on AWS
+2) connect via ssh
+3) install dependencies (docker + terraform)
+4) use terraform file from last task
+5) deploy custom nginx and pre-configured mysql db
